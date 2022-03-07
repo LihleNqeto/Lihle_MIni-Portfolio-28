@@ -45,6 +45,11 @@ module.exports = {
             sizes: `512x512`,
             type: `image/png`,
           },
+          {
+            src: `/Cray-Crazy.jpg`,
+            sizes: `512x512`,
+            type: `image/jpg`,
+          },
         ],
       },
     },
