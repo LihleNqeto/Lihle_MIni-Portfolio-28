@@ -7,7 +7,7 @@
 1. Create a Gatsby site.
 Use git to clone the site and navigate into it:
 
-git clone https://github.com/LekoArts/gatsby-starter-portfolio-cara project-name
+git clone https://github.com/LihleNqeto/lihle-portfolio-sovtech.git project-name
 cd project-name
 
 2. Install dependencies.
