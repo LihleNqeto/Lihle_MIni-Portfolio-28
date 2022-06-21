@@ -26,5 +26,4 @@ If you want to learn more about how you can use a Gatsby starter that is configu
 Changing content
 The content of this project is defined in four .mdx files inside the theme's sections folder. You can override the files intro.mdx, projects.mdx, about.mdx and contact.mdx. This starter has overridden all files for you already.
 
-You have to use the <ProjectCard /> component inside projects.mdx to display the cards. Example:
 
