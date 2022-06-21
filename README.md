@@ -1,5 +1,8 @@
 # lihle-portfolio-sovtech
  Playful and Colorful One-Page portfolio featuring Parallax effects and animations
+ 
+ 
+ #Link to The Deployed project https://lihle-portfolio-sovtech.netlify.app/
 
 1. Create a Gatsby site.
 Use git to clone the site and navigate into it:
